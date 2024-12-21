@@ -128,7 +128,7 @@ gdb041:
         
     fact_sales_monthly
         -This table is more or less is same as fact_forecase_monthly table, but the last column has the value of sold quantity instead of forecast value.
-gdb056
+gdb056:
   freight_cost
      -This table has details of travel cost and other cost for each market with fiscal year
   gross_price
