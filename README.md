@@ -169,7 +169,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-Uploading Screen Recording 2024-12-21 231452.mp4…
+[Uploading Screen Recording 2024-12-21 231452.mp4…](https://github.com/user-attachments/assets/df5ad827-a9c1-412f-bae9-ad5cd2ad4ccc)
 
 
 ## Info Page
