@@ -138,17 +138,20 @@ Fact table : It will have the data about the transactions
     - Has the details of pre-invoice deduction percentages for each customer with year.
   - Post_invoice_deductions
     - Post-invoice deductions and other deduction details.
-**Importing data into PowerBi**
+
+## Importing data into PowerBi
 As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
 
-**Data Model**
+## Data Model
 -Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 -Poor data modeling affects the over all performance of the report.
 -Following Good practices of data modeling is must. Refer this page to get to know the good practices Blog
 -In this project, we have followed Snowfall data modeling method.
 
+![Screenshot 2024-12-21 222411](https://github.com/user-attachments/assets/29518a70-a76e-4faf-9d68-bf9daea15f1e)
 
-**Dashboard designing**
+
+## Dashboard designing
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
 
 Home view
