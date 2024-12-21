@@ -182,6 +182,8 @@ In Home view, all the views button will be available. User will land on specific
 ![Screenshot 2024-12-21 220730](https://github.com/user-attachments/assets/cfcb18c2-9993-43f8-a5e4-61b468a23144)
 
 ## Marketing view
+![Screenshot 2024-12-21 220752](https://github.com/user-attachments/assets/b3e505ff-e168-4374-9747-9684fd936538)
 
 ## Supply chain view
+![Screenshot 2024-12-21 220814](https://github.com/user-attachments/assets/45210876-935d-450b-9a67-e0aa6af4de28)
 
