@@ -4,14 +4,7 @@
 ## Project Overview
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-I worked on this project by following the Codebasics PowerBi Course.
-
-- Item 1
-- Item 2
-  - Sub-item 1
-  - Sub-item 2
-
-
+I worked on this project by following the Codebasics PowerBi Course
 
 ## Tech stacks
 SQL
@@ -92,8 +85,8 @@ Dimension table : It will have the static data like details of customer and prod
 
 Fact table : It will have the data about the transactions
 
-gdb041:
-    dim_customer
+-gdb041:
+   - dim_customer
         -27 distinct markets (ex India, USA, spain)
         -75 distinct customers thorough out the market
         -2 types of platforms
@@ -103,7 +96,7 @@ gdb041:
         -Retailer
         -Direct
         -Distributors
-    dim_market
+    -dim_market
         -27 distinct markets (ex India, USA, spain)
         -7 sub-zones
         -4 regions
@@ -111,7 +104,7 @@ gdb041:
         -EU
         -nan
         -LATAM
-    dim_product
+   -dim_product
         -Divisions
          -P & A
            -> Peripherals
@@ -122,8 +115,8 @@ gdb041:
         -N & S
            -> Networking
            -> Storage
-    There are 14 different categories, Like Internal HDD, keyboard
-    There are different variants available for the same product
+   -There are 14 different categories, Like Internal HDD, keyboard
+   -There are different variants available for the same product
     
     fact_forecast_monthly
         -This table is used to forecast the customer’s need in advance, which can help in
