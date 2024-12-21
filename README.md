@@ -63,7 +63,7 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
-**Questions to ask before starting with dashboard**
+## Questions to ask before starting with dashboard
 What is the objective of building this PowerBi dashboard?
 In what terms the success of this project will be measured?
 What will be time dead-line of the project?
@@ -77,7 +77,7 @@ what are all the resources/ data needed to build this dashboard?
 is there any inputs from stakeholders in terms of design and views of the dashboard?
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 
-**Dataset Understanding.**
+## Dataset Understanding.
 
 Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
 
@@ -85,7 +85,7 @@ Dimension table : It will have the static data like details of customer and prod
 
 Fact table : It will have the data about the transactions
 
-gdb041:
+-gdb041:
    - dim_customer
         -27 distinct markets (ex India, USA, spain)
         -75 distinct customers thorough out the market
@@ -107,28 +107,28 @@ gdb041:
    -dim_product
         -Divisions
          -P & A
-           -> Peripherals
-           -> Accessories
+           - Peripherals
+           - Accessories
         -PC
-           -> Notebook
-           -> Desktop
+           - Notebook
+           - Desktop
         -N & S
-           -> Networking
-           -> Storage
+           - Networking
+           - Storage
    -There are 14 different categories, Like Internal HDD, keyboard
    -There are different variants available for the same product
     
     fact_forecast_monthly
         -This table is used to forecast the customer’s need in advance, which can help in
-           -> Higher customer satisfaction
-           -> Reduced cost in warehouses for storage purpose
+           - Higher customer satisfaction
+           - Reduced cost in warehouses for storage purpose
         -The table is denormalized by data engineering team, as it is a data warehouse which is aimed to be used for analytical work.
         -All the date of the month will be replaced by the start date of the month
         -It will have all the column names and in the end it will have the forecast quantity need of the customer
         
     fact_sales_monthly
         -This table is more or less is same as fact_forecase_monthly table, but the last column has the value of sold quantity instead of forecast value.
-gdb056:
+-gdb056:
   freight_cost
      -This table has details of travel cost and other cost for each market with fiscal year
   gross_price
