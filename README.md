@@ -37,7 +37,7 @@ Collaboration, workspace, access permissions in PowerBi services
 Uploading Large size files using GitHub LFS
 Tracking the particular type of file extensions for LFS
 
-**Business related terms**
+## Business related terms
 Gross price
 Pre-invoice deductions
 Post-Invoice deductions
@@ -53,7 +53,7 @@ Retailer
 Distributors
 Consumer
 
-**Company’s back ground**
+## Company’s back ground
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 
 Retailers
@@ -118,7 +118,7 @@ Fact table : It will have the data about the transactions
    -There are 14 different categories, Like Internal HDD, keyboard
    -There are different variants available for the same product
     
-    fact_forecast_monthly
+   -fact_forecast_monthly
         -This table is used to forecast the customer’s need in advance, which can help in
            - Higher customer satisfaction
            - Reduced cost in warehouses for storage purpose
@@ -126,18 +126,18 @@ Fact table : It will have the data about the transactions
         -All the date of the month will be replaced by the start date of the month
         -It will have all the column names and in the end it will have the forecast quantity need of the customer
         
-    fact_sales_monthly
+    -fact_sales_monthly
         -This table is more or less is same as fact_forecase_monthly table, but the last column has the value of sold quantity instead of forecast value.
 -gdb056:
-  freight_cost
+  -freight_cost
      -This table has details of travel cost and other cost for each market with fiscal year
-  gross_price
+  -gross_price
     -Has the details of gross prices with product code
-  manufacturing_cost
+  -manufacturing_cost
     -Has the details of manufacturing cost with product code with year
-  Pre_invoice_dedutions
+  -Pre_invoice_dedutions
     -Has the details of pre invoice deductions percentage for each cutomer with year
-  Post_invoice_deductions
+  -Post_invoice_deductions
     -Post invoice deductions and other deductions details
 
 **Importing data into PowerBi**
