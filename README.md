@@ -6,6 +6,12 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course.
 
+- Item 1
+- Item 2
+  - Sub-item 1
+  - Sub-item 2
+
+
 
 ## Tech stacks
 SQL
