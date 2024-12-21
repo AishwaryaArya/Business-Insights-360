@@ -187,3 +187,6 @@ In Home view, all the views button will be available. User will land on specific
 ## Supply chain view
 ![Screenshot 2024-12-21 220814](https://github.com/user-attachments/assets/45210876-935d-450b-9a67-e0aa6af4de28)
 
+## Project Outcome
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+
