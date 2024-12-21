@@ -1,12 +1,13 @@
 # Business-Insights-360
 
-**Project Overview**
+
+## Project Overview
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
 I worked on this project by following the Codebasics PowerBi Course.
 
 
-**Tech stacks**
+## Tech stacks
 SQL
 PowerBi Desktop
 Excel
@@ -14,7 +15,7 @@ DAX language
 DAX studio (for optimizing the report)
 Project charter file
 
-**PowerBI techniques Learnt**
+## PowerBI techniques Learnt
 What are all the questions should be asked before staring the project
 Creating calculated columns
 creating measure using DAX language
@@ -33,7 +34,7 @@ Setting up personal gateway to set up the auto refresh of data
 PowerBi App creation
 Collaboration, workspace, access permissions in PowerBi services
 
-**GitHub**
+## GitHub
 Uploading Large size files using GitHub LFS
 Tracking the particular type of file extensions for LFS
 
