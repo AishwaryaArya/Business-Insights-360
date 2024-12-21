@@ -176,9 +176,10 @@ In Home view, all the views button will be available. User will land on specific
 ![Screenshot 2024-12-21 220616](https://github.com/user-attachments/assets/461810bf-791a-4985-bbc9-a5e3b4722c86)
 
 ## Finance view
-
+![Screenshot 2024-12-21 220657](https://github.com/user-attachments/assets/198fc91d-ab0c-4289-ba73-ba4f8cc25e04)
 
 ## Sales view
+![Screenshot 2024-12-21 220730](https://github.com/user-attachments/assets/cfcb18c2-9993-43f8-a5e4-61b468a23144)
 
 ## Marketing view
 
