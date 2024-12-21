@@ -157,11 +157,30 @@ Based on the mock ups received as requirement, the team will start designing the
 Home view
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 
-Info
-Finance View
-Sales View
-Marketing View
-Supply chain View
-Executive View
-Products
-Support
+- Info  
+- Finance View  
+- Sales View  
+- Marketing View  
+- Supply Chain View  
+- Executive View  
+- Products  
+- Support
+
+
+## Overall Report
+
+
+
+## Info Page
+
+![Screenshot 2024-12-21 220616](https://github.com/user-attachments/assets/461810bf-791a-4985-bbc9-a5e3b4722c86)
+
+## Finance view
+
+
+## Sales view
+
+## Marketing view
+
+## Supply chain view
+
