@@ -21,15 +21,6 @@ I worked on this project by the Codebasics PowerBi Course
 - Project Charter File
 
 
-## Tech stacks
-SQL
-PowerBi Desktop
-Excel
-DAX language
-DAX studio (for optimizing the report)
-Project charter file
-
-
 ## PowerBI techniques Learnt
 What are all the questions should be asked before staring the project
 Creating calculated columns
@@ -53,21 +44,23 @@ Collaboration, workspace, access permissions in PowerBi services
 Uploading Large size files using GitHub LFS
 Tracking the particular type of file extensions for LFS
 
-## Business related terms
-Gross price
-Pre-invoice deductions
-Post-Invoice deductions
-Net Invoice sale
-Gross Margin
-Net sales
-Net profit
-COGC - cost of goods sold
-YTD - Year to Date
-YTG - Year to Go
-Direct
-Retailer
-Distributors
-Consumer
+## Business Related Terms
+
+- Gross Price
+- Pre-Invoice Deductions
+- Post-Invoice Deductions
+- Net Invoice Sale
+- Gross Margin
+- Net Sales
+- Net Profit
+- COGS - Cost of Goods Sold
+- YTD - Year to Date
+- YTG - Year to Go
+- Direct
+- Retailer
+- Distributors
+- Consumer
+
 
 ## Company’s back ground
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
