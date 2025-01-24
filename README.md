@@ -14,6 +14,7 @@ DAX language
 DAX studio (for optimizing the report)
 Project charter file
 
+
 ## PowerBI techniques Learnt
 What are all the questions should be asked before staring the project
 Creating calculated columns
