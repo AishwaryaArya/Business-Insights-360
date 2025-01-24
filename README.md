@@ -11,6 +11,16 @@ The `.pbix` file for this project is too large for direct upload. You can downlo
 
 I worked on this project by the Codebasics PowerBi Course
 
+## Tech Stacks
+
+- SQL
+- Power BI Desktop
+- Excel
+- DAX Language
+- DAX Studio (for optimizing the report)
+- Project Charter File
+
+
 ## Tech stacks
 SQL
 PowerBi Desktop
